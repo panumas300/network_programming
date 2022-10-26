@@ -1,0 +1,1 @@
+{'Time': '2022-10-26T08:03:55.862918', 'hostname': 'R1', 'Gig0-0_In_Octet': '0', 'Gig0-0_In_uPackets': '0', 'Gig0-0_Out_Octet': '0', 'Gig0-0_Out_uPackets': '0'}
